@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews/data
+https://huggingface.co/spaces/nadianshafira/Threads-Sentiment-Prediction
